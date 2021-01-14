@@ -49,14 +49,18 @@
 * After the successful completion you are ready to go. 
 
 <p align = "center"><img src="./media/splashscreen.png"/></p>
-<br/>
 
 #### Login With Username and Password that you set in Database
 <p>Username = admin , Password = admin</p>
 
 <p align="center"><img src="./media/login.png" width= "250" height="400"></p>
 
-<p align="center"><img src="./media/dashboard.png">
+## Admin Dashboard
+<p align="center"><img src="./media/dashboard.png"></p>
+
+## Cashier Dashboard / POS Dashboard
+<p align="center"><img src="./media/POS.png"></p>
+
 <p> Note: I already have some products and stock but when you install all things are zero</p>
 
 ### Features and Functionalities ###
