@@ -10,15 +10,15 @@
 
 [SQL Server Express 2019](https://www.microsoft.com/en-us/download/details.aspx?id=101064 "SQL Server Express 2019")
 
-<p align="center"><img src="./media/sqlexpress2019" width= "250" height= "250"/></p>
+<p align="center"><img src="./media/sqlexpress2019.png"/></p>
 
 [SQL Management Studio 2018](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15 "SQL Management Studio 2018")
 
-<p align="center"><img src="./media/sms2018" width= "250" height= "250"/></p>
+<p align="center"><img src="./media/sms2018.png"/></p>
 
 [C++ Redistributable for VS-2015](https://www.microsoft.com/en-pk/download/details.aspx?id=48145 "C++ Redistributable for VS2015")
 
-<p align="center"><img src="./media/C++package" width= "250" height= "250"/></p>
+<p align="center"><img src="./media/C++package.png"/></p>
 
 
 * After that you download the zip file of the setup and extract the files after that there is IMS.sql file you simply double click on it so it will be open in your SQL Management Studio
