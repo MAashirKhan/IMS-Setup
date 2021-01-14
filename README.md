@@ -23,14 +23,41 @@
 
 * After that you download the zip file of the setup and extract the files after that there is IMS.sql file you simply double click on it so it will be open in your SQL Management Studio
 
+#### Double Click on IMS.sql
+
+<p align="center"><img src="./media/IMSSQL.png"/></p>
+
+#### View In SSMS Execute Code
+
+<p align="center"><img src="./media/sqlview.png"/></p>
+
+
 * Once its you have to execute that particular file step by step. After complete execution your Database is ready to go. Now you refresh your SQL Management Studio all the tables are appear there. Now right click on the Userstbl and select edit top to 200 Rows and insert data in particular columns.
 
+#### Step one
+
+<p align="center"><img src="./media/usertbl1.png"/></p>
+
+#### Step Two (Write details Same as it is)
+
+<p align="center"><img src="./media/usertbl2.png"/></p>
+
 * After that now back to your setup folder and run the setup file and do all the basic settings.
+
+<p align="center"><img src="./media/setupwizard.png"/></p>
+
 * After the successful completion you are ready to go. 
 
 <p align = "center"><img src="./media/splashscreen.png"/></p>
 <br/>
+
+#### Login With Username and Password that you set in Database
+<p>Username = admin , Password = admin</p>
+
 <p align="center"><img src="./media/login.png" width= "250" height="400"></p>
+
+<p align="center"><img src="./media/dashboard.png">
+<p> Note: I already have some products and stock but when you install all things are zero</p>
 
 ### Features and Functionalities ###
 * Notifier For Critical Stock
