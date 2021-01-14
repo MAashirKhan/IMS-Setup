@@ -32,7 +32,7 @@
 <p align="center"><img src="./media/sqlview.png"/></p>
 
 
-* Once its you have to execute that particular file step by step. After complete execution your Database is ready to go. Now you refresh your SQL Management Studio all the tables are appear there. Now right click on the Userstbl and select edit top to 200 Rows and insert data in particular columns.
+* Once its open you have to execute that particular file step by step. After complete execution your Database is ready to go. Now you refresh your SQL Management Studio all the tables are appear there. Now right click on the Userstbl and select edit top to 200 Rows and insert data in particular columns.
 
 #### Step one
 
@@ -84,5 +84,6 @@
 
 
 ### Developed By Webisoft Pakistan ###
+* If you like the project please give me a star
 * Follow Us:
 [Webisoft Pakistan](http://www.facebook.com/WebisoftPakistan/ "Webisoft Pakistan")
